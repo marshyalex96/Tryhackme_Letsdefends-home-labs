@@ -16,7 +16,7 @@ My journey in Information Technology has led me to develop a passion and strong 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/marshyalex96/SOC-automation-project">Detection Lab</a>|
-| Managing Users and Groups using Active directory | <a href="[https://github.com/marshyalex96/SOC-automation-project](https://www.linkedin.com/posts/marshyalexandre_tryhackme-activedirectory-vm-activity-7383208876256690176-BCIS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-dbtIBTOMMj8smsB9O4MdMkjNuMbDs3Nw)">Active Directory</a>|
+| Managing Users and Groups using Active directory | <a href="https://www.linkedin.com/posts/marshyalexandre_tryhackme-activedirectory-vm-activity-7383208876256690176-BCIS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-dbtIBTOMMj8smsB9O4MdMkjNuMbDs3Nw">Active Directory</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
